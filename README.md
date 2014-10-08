@@ -22,3 +22,4 @@ Inżynieria Oprogramowania
 
 [GitHub] (http://github.com)
 [Mastering Markdown] (https://guides.github.com/features/mastering-markdown/)
+[Git Manual] (https://www.kernel.org/pub/software/scm/git/docs/user-manual.html)
