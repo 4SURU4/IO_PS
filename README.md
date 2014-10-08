@@ -26,4 +26,4 @@ Inżynieria Oprogramowania
 
 git clone https://github.com/4SURU4/IO_PS
 
-Key > INSERT
+Key INSERT
