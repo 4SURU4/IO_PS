@@ -23,3 +23,7 @@ Inżynieria Oprogramowania
 [GitHub] (http://github.com)
 [Mastering Markdown] (https://guides.github.com/features/mastering-markdown/)
 [Git Manual] (https://www.kernel.org/pub/software/scm/git/docs/user-manual.html)
+
+git clone https://github.com/4SURU4/IO_PS
+
+Key `INSERT`
